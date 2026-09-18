@@ -1,0 +1,19 @@
+{
+  "excluded_fields": [
+    "client_id",
+    "content_id",
+    "is_declining_label",
+    "trend_direction",
+    "trend_pct"
+  ],
+  "score_inputs": [
+    "avg_position",
+    "ctr",
+    "days_since_last_update",
+    "engagement_rate",
+    "impressions_90d",
+    "sessions_90d",
+    "word_count"
+  ],
+  "status": "PASS"
+}

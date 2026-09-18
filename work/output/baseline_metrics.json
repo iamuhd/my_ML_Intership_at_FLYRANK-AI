@@ -1,0 +1,14 @@
+{
+  "csv_output": "work/outputs/baseline_action_score.csv",
+  "declining_label_base_rate": 0.5420666666666667,
+  "precision_at_10": 0.4,
+  "precision_at_50": 0.34,
+  "rows_screened": 30000,
+  "score_formula": {
+    "depth_gap": 0.05,
+    "freshness": 0.25,
+    "low_ctr_opportunity": 0.15,
+    "position_opportunity": 0.2,
+    "visibility": 0.35
+  }
+}
